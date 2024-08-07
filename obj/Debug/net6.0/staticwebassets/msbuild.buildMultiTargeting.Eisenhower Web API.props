@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eisenhower Web API.props" />
+</Project>
